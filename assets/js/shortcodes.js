@@ -294,9 +294,9 @@
                         options: {
                             zoom: 10,
                             center: [51.1946026,0.8140602,14.5],
-                            mapTypeId: 'Autora',
+                            mapTypeId: '99 PRO HUB',
                             mapTypeControlOptions: {
-                                mapTypeIds: ['Autora', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
+                                mapTypeIds: ['99 PRO HUB', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
                             },
                             scrollwheel: true
                         },
@@ -317,9 +317,9 @@
                         }]
                 },
                 styledmaptype: {
-                    id: "Autora",
+                    id: "99 PRO HUB",
                     options: {
-                        name: "Autora"
+                        name: "99 PRO HUB"
                     },
                     styles: [
                         {

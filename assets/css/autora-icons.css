@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'autoraicon';
-  src:  url('../font/autoraicond44c.eot?77c5li');
-  src:  url('../font/autoraicond44c.eot?77c5li#iefix') format('embedded-opentype'),
-    url('../font/autoraicond44c.ttf?77c5li') format('truetype'),
-    url('../font/autoraicond44c.woff?77c5li') format('woff'),
-    url('../font/autoraicond44c.svg?77c5li#autoraicon') format('svg');
+  font-family: '99 PRO HUBicon';
+  src:  url('../font/99 PRO HUBicond44c.eot?77c5li');
+  src:  url('../font/99 PRO HUBicond44c.eot?77c5li#iefix') format('embedded-opentype'),
+    url('../font/99 PRO HUBicond44c.ttf?77c5li') format('truetype'),
+    url('../font/99 PRO HUBicond44c.woff?77c5li') format('woff'),
+    url('../font/99 PRO HUBicond44c.svg?77c5li#99 PRO HUBicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="autora-icon-"], [class*=" autora-icon-"] {
+[class^="99 PRO HUB-icon-"], [class*=" 99 PRO HUB-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'autoraicon' !important;
+  font-family: '99 PRO HUBicon' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,48 +24,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.autora-icon-author:before {
+.99 PRO HUB-icon-author:before {
   content: "\e900";
 }
-.autora-icon-author-outline:before {
+.99 PRO HUB-icon-author-outline:before {
   content: "\e901";
 }
-.autora-icon-build:before {
+.99 PRO HUB-icon-build:before {
   content: "\e902";
 }
-.autora-icon-build-home:before {
+.99 PRO HUB-icon-build-home:before {
   content: "\e903";
 }
-.autora-icon-building-outline:before {
+.99 PRO HUB-icon-building-outline:before {
   content: "\e904";
 }
-.autora-icon-camera-outline:before {
+.99 PRO HUB-icon-camera-outline:before {
   content: "\e905";
 }
-.autora-icon-check-circle-outline:before {
+.99 PRO HUB-icon-check-circle-outline:before {
   content: "\e906";
 }
-.autora-icon-concrete:before {
+.99 PRO HUB-icon-concrete:before {
   content: "\e907";
 }
-.autora-icon-facebook:before {
+.99 PRO HUB-icon-facebook:before {
   content: "\e908";
 }
-.autora-icon-hat-outline:before {
+.99 PRO HUB-icon-hat-outline:before {
   content: "\e909";
 }
-.autora-icon-long-arrow-right:before {
+.99 PRO HUB-icon-long-arrow-right:before {
   content: "\e90a";
 }
-.autora-icon-phone-contact:before {
+.99 PRO HUB-icon-phone-contact:before {
   content: "\e90b";
 }
-.autora-icon-quality:before {
+.99 PRO HUB-icon-quality:before {
   content: "\e90c";
 }
-.autora-icon-time:before {
+.99 PRO HUB-icon-time:before {
   content: "\e90d";
 }
-.autora-icon-twitter:before {
+.99 PRO HUB-icon-twitter:before {
   content: "\e90e";
 }
